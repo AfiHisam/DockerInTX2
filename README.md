@@ -2,8 +2,8 @@
 ## Please download and install JetPack 3.2 on your TX2 or it will not work <br>
 https://developer.nvidia.com/embedded/downloads?#?search=JetPack%203.2
 
-As usual 
-$ git clone https://github.com/AfiHisam/DockerInTX2.git
+As usual <br>
+$ git clone https://github.com/AfiHisam/DockerInTX2.git <br>
 $ cd DockerInTX2
 
 To run the the installation 
