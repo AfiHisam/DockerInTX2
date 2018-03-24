@@ -12,6 +12,10 @@ $ ./install.sh
 
 ...and we're done with installation, simple and sweet is it !
 
+To view the docker images
+
+$ sudo Docker images
+
 ## more about Docker
 https://www.docker.com/
 
