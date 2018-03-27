@@ -1,4 +1,4 @@
-#!/bin/bash
+
 #==============================================================================
 # Title: install.sh
 # Description: Install everything necessary for Docker in TX2.
